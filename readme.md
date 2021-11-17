@@ -1,5 +1,5 @@
 # Calculator Project Setup
-[![Build Status](https://app.travis-ci.com/brahma0210/calc2-refracto.svg?branch=refractor)](https://app.travis-ci.com/brahma0210/calc2-refractor)
+[![Build Status](https://app.travis-ci.com/brahma0210/calc2-refractor.svg?branch=refractor)](https://app.travis-ci.com/brahma0210/calc2-refractor)
 Run Pip Install
 pip install -r requirements.txt
 
